@@ -1,0 +1,10 @@
+=============================== Training Dashboard Changelog ===============================
+  V1.1, (pushed 7/29)
+  - Fixed issue #2: An additional option was added to the notifications popup that allows
+    users to filter out their own sent messages (the logic still lists them in the recip.)
+  - Fixed issue #4: Added minimum and maximum date restrictions to the impromptu listing
+    popup. Also blocked the 'end' datetime picker until the 'start' is completed.
+  - Fixed issue #5: Added logic to disable the no-show button on the instructor dashboard
+    after a session is already marked no-show.
+  - Fixed issue #6: Adjusted padding on side menu items to allow for font size change on
+    hover without violating the bounds and overflowing.
