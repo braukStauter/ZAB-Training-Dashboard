@@ -11,3 +11,4 @@
   - Adjusted maximum height on certain card values to prevent overflow.
   - Added some alert logic to various actions.
   - Added some logging logic to various actions.
+  - Added version label to index.
