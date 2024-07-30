@@ -1,12 +1,26 @@
-NOT YET PUSHED CHANGES TO DEV BRANCH:
+=============================== Training Dashboard Changelog ===============================
 V1.2, (unpushed.)
   - Reworked user filter logic in User Management panel to be more efficient.
   - Reworked cell size on user management table to be more compact.
-  - Disabled 'Approvals' button in User Management panel w/ tooltip.
-  - Disabled 'SPOTs' button in User Management panel w/ tooltip.
-
-
-=============================== Training Dashboard Changelog ===============================
+  - Reworked training session/request panel for students
+      - There was a lot of backend changes to process that should optimize things
+        on the student side. Too lazy to type out all of the backend changes.
+  - Disabled 'Approvals' button in User Management panel w/ tooltip for dev.
+  - Disabled 'SPOTs' button in User Management panel w/ tooltip for dev.
+  - Completely redesigned bid system
+  - Added backend API workflow to handle bid finalization
+  - Added appropriate student labeling in Instructor Dashboard (did a lot more here but 
+    too lazy to explain)
+  - Added new repeating group in Instructor Dashboard to separate instructor postings
+    versus instructor claimed sessions.
+  - Added ability for instructors to create session notes from claimed sessions.
+      - Added backend feature that will associate availability records with training
+        session records for administrative tracking. (Probably another use case but, again
+        lazy...)
+  - Fixed bug wherein "Progress Plan" button on Training Dashboard is not visible if not
+    in cell one.
+  - Added administrative session cancellation process (in User Management, with email, API
+    backend, etc.)
 V1.1a, (pushed 7/29)
   - Added logic to reject impromptu availability requests with drop down selection on a
     header item.
