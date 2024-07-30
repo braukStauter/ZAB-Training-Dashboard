@@ -1,5 +1,13 @@
+NOT YET PUSHED CHANGES TO DEV BRANCH:
+V1.2, (unpushed.)
+  - Reworked user filter logic in User Management panel.
+
+
 =============================== Training Dashboard Changelog ===============================
-  V1.1, (pushed 7/29)
+V1.1a, (pushed 7/29)
+  - Added logic to reject impromptu availability requests with drop down selection on a
+    header item.
+V1.1, (pushed 7/29)
   - Fixed issue #2: An additional option was added to the notifications popup that allows
     users to filter out their own sent messages (the logic still lists them in the recip.)
   - Fixed issue #4: Added minimum and maximum date restrictions to the impromptu listing
