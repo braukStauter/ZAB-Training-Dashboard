@@ -2,6 +2,8 @@ NOT YET PUSHED CHANGES TO DEV BRANCH:
 V1.2, (unpushed.)
   - Reworked user filter logic in User Management panel to be more efficient.
   - Reworked cell size on user management table to be more compact.
+  - Disabled 'Approvals' button in User Management panel w/ tooltip.
+  - Disabled 'SPOTs' button in User Management panel w/ tooltip.
 
 
 =============================== Training Dashboard Changelog ===============================
