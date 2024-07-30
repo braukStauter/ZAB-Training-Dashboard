@@ -1,5 +1,5 @@
 =============================== Training Dashboard Changelog ===============================
-V1.2, (unpushed.)
+V1.2, (pushed 7/30)
   - Reworked user filter logic in User Management panel to be more efficient.
   - Reworked cell size on user management table to be more compact.
   - Reworked training session/request panel for students
