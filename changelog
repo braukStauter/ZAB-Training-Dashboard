@@ -8,3 +8,6 @@
     after a session is already marked no-show.
   - Fixed issue #6: Adjusted padding on side menu items to allow for font size change on
     hover without violating the bounds and overflowing.
+  - Adjusted maximum height on certain card values to prevent overflow.
+  - Added some alert logic to various actions.
+  - Added some logging logic to various actions.
