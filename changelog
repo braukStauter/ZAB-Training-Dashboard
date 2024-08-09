@@ -1,4 +1,10 @@
 =============================== Training Dashboard Changelog ===============================
+V1.3a, (pushed 8/9)
+  - Fixed DT picker on student side to appropriately limit end times.
+  - Fixed loading popup during authorization process.
+  - Reworked authorization and data import into backend server process.
+  - Reworked instructor impromptu claim process to allow for date/time change within
+    provided availability.
 V1.2, (pushed 7/30)
   - Various formatting changes website wide.
   - Reworked user filter logic in User Management panel to be more efficient.
