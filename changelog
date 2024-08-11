@@ -1,4 +1,11 @@
 =============================== Training Dashboard Changelog ===============================
+V1.4, (pushed 8/11)
+  - Fixed backend authorization and VATUSA data import to allow waiting on VATUSA server
+  - Fixed backend processing of visitor facilities
+  - Fixed email privacy issue wherein instructor emails were visable
+  - Changed default "prog_plan_next" value to "N/A" instead of "S1A" (people are dumb)
+  - Added note on training dashboard for location of other training records
+  - Added language to multiple labels sitewide to be more descriptive
 V1.3a, (pushed 8/9)
   - Fixed DT picker on student side to appropriately limit end times.
   - Fixed loading popup during authorization process.
