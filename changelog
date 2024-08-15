@@ -2,6 +2,8 @@
 V1.5, (pushed 8/15)
   - Added multiple new email notifications in backend process, both to the end-user and
     the training team.
+  - Added instructor utilization function for administrators to view various data
+    regarding instructor performance.
   - Added solo endorsemment functionality to the site, with VATUSA integration.
     - Added multiple popup and backend windows to submit solo certificates in the user
       management tab.
