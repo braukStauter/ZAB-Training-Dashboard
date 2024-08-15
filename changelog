@@ -1,11 +1,22 @@
 =============================== Training Dashboard Changelog ===============================
+V1.5, (pushed 8/15)
+  - Added multiple new email notifications in backend process, both to the end-user and
+    the training team.
+  - Added solo endorsemment functionality to the site, with VATUSA integration.
+    - Added multiple popup and backend windows to submit solo certificates in the user
+      management tab.
+    - Added "Active Solo Certs" panel for training team staff to view all active solos.
+  - Fixed display of impromptu training availability for instructors.
+    - Added method to separate requests for current date and future dates.
+  - Fixed date/time picker login in the instructor availability postings.
+  - Fixed bid system date/time picker 'bid end' defaults.
 V1.4, (pushed 8/11)
-  - Fixed backend authorization and VATUSA data import to allow waiting on VATUSA server
-  - Fixed backend processing of visitor facilities
-  - Fixed email privacy issue wherein instructor emails were visable
-  - Changed default "prog_plan_next" value to "N/A" instead of "S1A" (people are dumb)
-  - Added note on training dashboard for location of other training records
-  - Added language to multiple labels sitewide to be more descriptive
+  - Fixed backend authorization and VATUSA data import to allow waiting on VATUSA server.
+  - Fixed backend processing of visitor facilities.
+  - Fixed email privacy issue wherein instructor emails were visable.
+  - Changed default "prog_plan_next" value to "N/A" instead of "S1A" (people are dumb).
+  - Added note on training dashboard for location of other training records.
+  - Added language to multiple labels sitewide to be more descriptive.
 V1.3a, (pushed 8/9)
   - Fixed DT picker on student side to appropriately limit end times.
   - Fixed loading popup during authorization process.
