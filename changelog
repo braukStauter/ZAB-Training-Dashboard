@@ -1,4 +1,12 @@
 =============================== Training Dashboard Changelog ===============================
+V1.5a, (pushed 8/16)
+  - Fixed a bug wherein the instructor availability was posting at a different time than
+    was selected by the instructor. 
+  - Added some time-limit logic that prevents students from picking up more than one
+    session in a 12-hour period.
+  - Fixed display issues on the instructor User Management panel
+  - Fixed display issues on the instructor
+  - Added warning message to student postings (if the poster is an instructor or mentor)
 V1.5, (pushed 8/15)
   - Added multiple new email notifications in backend process, both to the end-user and
     the training team.
