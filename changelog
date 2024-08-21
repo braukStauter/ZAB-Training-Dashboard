@@ -1,4 +1,11 @@
 =============================== Training Dashboard Changelog ===============================
+V1.6, (pushed 8/21)
+  - Added functionality for the SPOT program. This includes a variey of backend APIs, forms
+    and instructor procedural items that I'm too lazy to list here.
+  - Added functionality for New Request button on the instructor dashboard.
+  - Added functionality for the New SPOT button on the instructor dashboard.
+  - Fixed various bugs related to the login process backend that was draining resources.
+  - Added some logging functionality for various processes.
 V1.5a, (pushed 8/16)
   - Fixed a bug wherein the instructor availability was posting at a different time than
     was selected by the instructor. 
